@@ -1,7 +1,6 @@
 defmodule Mix.Tasks.Erlfmt do
   @moduledoc ~S"""
-  Runs the `erlfmt` command for the given project. It's the most possible thin wrapper
-  to the original library. All the documentation can be found in the [original library](https://hex.pm/packages/erlfmt).
+  Runs the `erlfmt` command for the given project.
 
   ## Command line options
 

@@ -15,7 +15,7 @@ defmodule MixErlfmt.MixProject do
 
   defp deps do
     [
-      {:erlfmt, "~> 0.12.0"},
+      {:erlfmt, "~> 1.0"},
       {:getopt, "~> 1.0"},
       {:ex_doc, "~> 0.14", only: :dev, runtime: false}
     ]

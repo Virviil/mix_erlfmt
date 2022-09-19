@@ -51,7 +51,7 @@ by adding `mix_erlfmt` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:mix_erlfmt, "~> 0.1.1"}
+    {:mix_erlfmt, "~> 0.2.0"}
   ]
 end
 ```
